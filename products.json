@@ -23,7 +23,7 @@
         "description": "لحم مشوي مع خضار طازجة وصلصة خاصة",
         "price": 3.0,
         "category": "sandwich",
-        "image": "https://mohammaddebsawi.github.io/mnue/images/p",
+        "image": "https://mohammaddebsawi.github.io/mnue/images/images (1).jpeg",
         "prepTime": 10
     },
     {
@@ -73,5 +73,6 @@
     }
 
 ]
+
 
 
