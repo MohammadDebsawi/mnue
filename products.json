@@ -41,7 +41,7 @@
         "description": "عصير برتقال طازج بدون إضافات",
         "price": 1.5,
         "category": "drinks",
-        "image": "https://mohammaddebsawi.github.io/mnue/images/",
+        "image": "https://mohammaddebsawi.github.io/mnue/images/تنزيل.jpeg",
         "prepTime": 3
     },
     {
@@ -73,6 +73,7 @@
     }
 
 ]
+
 
 
 
