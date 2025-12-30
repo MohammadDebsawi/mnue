@@ -14,7 +14,7 @@
         "description": "عجينة طازجة محشوة بالجبنة البيضاء والجبنة الصفراء",
         "price": 2.0,
         "category": "pastry",
-        "image": "https://mohammaddebsawi.github.io/mnue/images/",
+        "image": "https://mohammaddebsawi.github.io/mnue/images/images.jpeg",
         "prepTime": 15
     },
     {
@@ -73,6 +73,7 @@
     }
 
 ]
+
 
 
 
