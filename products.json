@@ -59,7 +59,7 @@
         "description": "عجينة محشوة بسبانخ وجبنة وجوز",
         "price": 2.2,
         "category": "pastry",
-        "image": "https://mohammaddebsawi.github.io/mnue/images/",
+        "image": "https://mohammaddebsawi.github.io/mnue/images/hq720.jpg",
         "prepTime": 18
     },
     {
@@ -73,4 +73,5 @@
     }
 
 ]
+
 
