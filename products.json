@@ -5,7 +5,7 @@
         "description": "جبنة موزاريلا، صلصة طماطم، أوراق ريحان طازجة",
         "price": 3.5,
         "category": "pizza",
-        "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=400&h=300&fit=crop",
+        "image": "https://mohammaddebsawi.github.io/mnue/images/",
         "prepTime": 25
     },
     {
@@ -14,7 +14,7 @@
         "description": "عجينة طازجة محشوة بالجبنة البيضاء والجبنة الصفراء",
         "price": 2.0,
         "category": "pastry",
-        "image": "https://images.unsplash.com/photo-1555507036-ab794a27be03?w=400&h=300&fit=crop",
+        "image": "https://mohammaddebsawi.github.io/mnue/images/",
         "prepTime": 15
     },
     {
@@ -23,7 +23,7 @@
         "description": "لحم مشوي مع خضار طازجة وصلصة خاصة",
         "price": 3.0,
         "category": "sandwich",
-        "image": "https://images.unsplash.com/photo-1553979459-d2229ba7433c?w=400&h=300&fit=crop",
+        "image": "https://mohammaddebsawi.github.io/mnue/images/p",
         "prepTime": 10
     },
     {
@@ -32,7 +32,7 @@
         "description": "كريب محشو بنوتيلا وموز ومغطى بسكر البودرة",
         "price": 2.5,
         "category": "dessert",
-        "image": "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?w=400&h=300&fit=crop",
+        "image": "https://mohammaddebsawi.github.io/mnue/images/",
         "prepTime": 8
     },
     {
@@ -41,7 +41,7 @@
         "description": "عصير برتقال طازج بدون إضافات",
         "price": 1.5,
         "category": "drinks",
-        "image": "https://images.unsplash.com/photo-1621506289937-a8e4df240d0b?w=400&h=300&fit=crop",
+        "image": "https://mohammaddebsawi.github.io/mnue/images/",
         "prepTime": 3
     },
     {
@@ -50,7 +50,7 @@
         "description": "جبنة موزاريلا، صلصة طماطم، بيبروني، فلفل أخضر",
         "price": 4.0,
         "category": "pizza",
-        "image": "https://images.unsplash.com/photo-1604068549290-dea0e4a305ca?w=400&h=300&fit=crop",
+        "image": "https://mohammaddebsawi.github.io/mnue/images/",
         "prepTime": 30
     },
     {
@@ -59,26 +59,8 @@
         "description": "عجينة محشوة بسبانخ وجبنة وجوز",
         "price": 2.2,
         "category": "pastry",
-        "image": "https://images.unsplash.com/photo-1608190003443-86ab6d3e5fd3?w=400&h=300&fit=crop",
+        "image": "https://mohammaddebsawi.github.io/mnue/images/",
         "prepTime": 18
-    },
-    {
-        "id": 8,
-        "name": "سندويش دجاج",
-        "description": "صدر دجاج مشوي مع مايونيز وخضار",
-        "price": 2.8,
-        "category": "sandwich",
-        "image": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?w=400&h=300&fit=crop",
-        "prepTime": 12
-    },
-    {
-        "id": 9,
-        "name": "تشيز كيك",
-        "description": "تشيز كيك بالتوت والكريمة",
-        "price": 3.0,
-        "category": "dessert",
-        "image": "https://images.unsplash.com/photo-1567306301408-9b74779a11af?w=400&h=300&fit=crop",
-        "prepTime": 5
     },
     {
         "id": 10,
@@ -86,7 +68,8 @@
         "description": "ليمون طازج مع أوراق النعناع",
         "price": 1.8,
         "category": "drinks",
-        "image": "https://images.unsplash.com/photo-1621265113764-3b7f2d5c4f3a?w=400&h=300&fit=crop",
+        "image": "https://mohammaddebsawi.github.io/mnue/images/69901-ليمون-بالنعناع.webp",
         "prepTime": 5
     }
+
 ]
